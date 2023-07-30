@@ -1,0 +1,6 @@
+﻿Main program
+There is a report function that takes the algorithms and returns the data for iterations, sample size, solutions and timing for n from 4 to 14.
+
+
+To run the code one needs to use Python3. 
+Initially a small interface will be shown, the one needs to insert an integer value for N (number of queens and size of the chessboard), then choose the algorithm (from three possible options: Genetic, Backtracking and Random Restart Hill-Climbing algorithms) with which one prefers to solve the problem and press submit. The program will print the first valid configuration for the N-Queens problem on the N×N chessboard. If no solution exists, it will display a message indicating the same.
